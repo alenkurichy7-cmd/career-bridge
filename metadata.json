@@ -1,0 +1,6 @@
+{
+  "name": "CareerBridge",
+  "description": "Comprehensive career guidance, skill development, internship, and placement platform bridging college education and employment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
